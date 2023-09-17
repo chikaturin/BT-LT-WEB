@@ -1,7 +1,13 @@
 ﻿<Properties StartupConfiguration="{7051C3D4-BE69-4145-9D77-8F4FAA687461}|http">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BT_220LT FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="BT Lí/BT1_Buoi1.html">
     <Files>
-      <File FileName="BT Lí/BT1_Buoi1.html" Line="371" Column="54" />
+      <File FileName="BT Lí/BT1_Buoi1.html" Line="352" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,11 +21,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.BT_220LT PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
